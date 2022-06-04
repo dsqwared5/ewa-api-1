@@ -1,20 +1,20 @@
 <?php
 
-namespace Maksa988\EwaAPI;
+namespace Dsqwared\EwaAPI;
 
 use GuzzleHttp\Client;
-use Maksa988\EwaAPI\Requests\AuthRequest;
-use Maksa988\EwaAPI\Requests\Request;
+use Dsqwared\EwaAPI\Requests\AuthRequest;
+use Dsqwared\EwaAPI\Requests\Request;
 use Psr\Http\Message\ResponseInterface;
 use GuzzleHttp\Exception\ClientException;
-use Maksa988\EwaAPI\Exceptions\Exception;
+use Dsqwared\EwaAPI\Exceptions\Exception;
 
 class EwaAPI
 {
     /**
      * @var string
      */
-    const VERSION = '9';
+    const VERSION = '15';
 
     /**
      * @var string

@@ -1,5 +1,5 @@
 {
-  "name": "maksa988/ewa-api",
+  "name": "dsqwared/ewa-api",
   "description": "PHP package for EWA.ua API",
   "license": "MIT",
   "authors": [
@@ -17,12 +17,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Maksa988\\EwaAPI\\": "src"
+      "Dsqwared\\EwaAPI\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Maksa988\\EwaAPI\\Test\\": "tests/"
+      "Dsqwared\\EwaAPI\\Test\\": "tests/"
     }
   },
   "config": {

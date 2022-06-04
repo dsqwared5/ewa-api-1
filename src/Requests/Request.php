@@ -1,6 +1,6 @@
 <?php
 
-namespace Maksa988\EwaAPI\Requests;
+namespace Dsqwared\EwaAPI\Requests;
 
 use GuzzleHttp\Cookie\CookieJar;
 

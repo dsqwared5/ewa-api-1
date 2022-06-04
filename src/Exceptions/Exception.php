@@ -1,9 +1,9 @@
 <?php
 
-namespace Maksa988\EwaAPI\Exceptions;
+namespace Dsqwared\EwaAPI\Exceptions;
 
 use Exception as BaseException;
-use Maksa988\EwaAPI\Requests\Request;
+use Dsqwared\EwaAPI\Requests\Request;
 use Psr\Http\Message\ResponseInterface;
 
 class Exception extends BaseException

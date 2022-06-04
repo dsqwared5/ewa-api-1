@@ -1,6 +1,6 @@
 <?php
 
-namespace Maksa988\EwaAPI\Types;
+namespace Dsqwared\EwaAPI\Types;
 
 class RegistrationType
 {

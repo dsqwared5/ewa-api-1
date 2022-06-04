@@ -1,8 +1,8 @@
 <?php
 
-namespace Maksa988\EwaAPI\Requests;
+namespace Dsqwared\EwaAPI\Requests;
 
-use Maksa988\EwaAPI\Types\CustomerCategory;
+use Dsqwared\EwaAPI\Types\CustomerCategory;
 
 class CalculateDgoRequest extends Request
 {
